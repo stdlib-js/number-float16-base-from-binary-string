@@ -42,6 +42,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/number-float16-base-from-binary-string/tags). For example,
+
+```javascript
 import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@v0.1.0-esm/index.mjs';
 ```
 
@@ -120,7 +125,7 @@ import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
 import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float16@esm/index.mjs';
 import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-to-binary-string@esm/index.mjs';
-import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@v0.1.0-esm/index.mjs';
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@esm/index.mjs';
 
 var frac;
 var sign;
