@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@esm/index.mjs';
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@v0.1.1-esm/index.mjs';
 ```
 
 #### fromBinaryString( bstr )
@@ -120,7 +120,7 @@ import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round
 import pow from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-pow@esm/index.mjs';
 import toFloat16 from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float64-base-to-float16@esm/index.mjs';
 import toBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-to-binary-string@esm/index.mjs';
-import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@esm/index.mjs';
+import fromBinaryString from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-float16-base-from-binary-string@v0.1.1-esm/index.mjs';
 
 var frac;
 var sign;
